@@ -1,0 +1,8 @@
+To switch menu items:       
+                          /\
+UP - press up arrow       ||
+                            
+DOWN - press down arrow   ||
+                          \/
+To select menu item: 
+Press ENTER
